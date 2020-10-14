@@ -1,5 +1,3 @@
-import jdk.internal.joptsimple.internal.Strings;
-
 public class ParsingValue {
 
     public static void main (String[] args) {
