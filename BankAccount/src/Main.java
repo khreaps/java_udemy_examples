@@ -4,11 +4,12 @@ public class Main {
 
         BankAccountC ba = new BankAccountC();
 
-        ba.setAccountNumber(20201001);
-        ba.setBalance(100.50);
-        ba.setCustomerName("Ricardo Galvez");
-        ba.setEmail("p@pp.com");
-        ba.setPhoneNum("999941299");
+     //   BankAccountC ba = new BankAccountC(20201001, 100.50, "Ricardo Galvez", "p@pp.com","999942199");
+        // ba.setAccountNumber(20201001);
+        // ba.setBalance(100.50);
+        // ba.setCustomerName("Ricardo Galvez");
+        // ba.setEmail("p@pp.com");
+        // ba.setPhoneNum("999941299");
 
         System.out.println(ba.getAccountNumber());
         System.out.println(ba.getBalance());
